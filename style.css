@@ -1,0 +1,60 @@
+.headermenu{
+	margin-top: 0%;
+	margin-right: 0%;
+}
+
+
+#log{
+	float: left;
+	margin-top: 5%;
+}
+
+#reg{
+	float: right;
+	margin-top: 20%;
+}
+
+#groupbody{
+	color: green;
+	background-color: black;
+}
+
+
+
+#friendlist{
+	float: right;
+	margin-left: 0px;
+}
+
+#online{
+	background-color: red;
+}
+
+#offline{
+	background-color: green;
+}
+
+
+
+
+.seepost{
+	width: 25%;
+	height: 115%;
+	border:inset;
+	margin-left:15%;
+	margin-top: 0%;
+}
+
+#profilebody{
+	color:green;
+	background-color: black;
+}
+
+
+#friendlist{
+	float: right;
+	margin-right: 0px;
+}
+
+
+
